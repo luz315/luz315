@@ -2,7 +2,7 @@
  
 </p>
 
-# ⎛⎝༼ ▀̿̿Ĺ̯̿̿▀̿ ̿ ༽ ﾟ.*・｡ﾟ☆ ▁▂▃▅▆▓▒░  ✧ 𝒲ℯ𝓁𝒸ℴ𝓂ℯ ✧
+# ⎛⎝༼ ▀̿̿Ĺ̯̿̿▀̿ ̿ ༽ ﾟ.*・｡ﾟ. ▁▂▃▅▆▓▒░    𝒲ℯ𝓁𝒸ℴ𝓂ℯ ✧
 
 
 
@@ -26,5 +26,5 @@
 </p> 
 
 
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hermosa65)](https://solved.ac/hermosa65/) ᕦ༼˵ಠਊಠ˵༽ᕤ
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hermosa65)](https://solved.ac/hermosa65/) **ᕦ༼˵ಠਊಠ˵༽ᕤ**
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luz315&show_icons=true&theme=material-palenight)
