@@ -48,7 +48,7 @@
  
 </p> 
 
-<br>
+<br><br>
 
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hermosa65)](https://solved.ac/hermosa65/) **ᕦ༼˵ಠਊಠ˵༽ᕤ**
